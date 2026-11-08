@@ -1,16 +1,15 @@
-# Nome do Sistema: A Lousa do House
-A Lousa do House permite que os médicos do hospital Princeton Plasboro agendem salas de exames, cirurgias e enviem autorizações de procedimentos para o comitê.
+# Nome do Sistema: Painel do Leitor
+O Painel do leitor permite que os leitores do clube do livro do Campus Ponta Grossa acompanhem a agenda de encontros, se inscrevam nas sessões de leitura e compartilhem o seu progresso de leitura.
 
 Projeto Integrador de Análise e Projeto de Sistemas, 2026.
 IFPR, Centro de Referência Ponta Grossa. Técnico em Informática Integrado ao Ensino Médio.
 
 **Autoria:** ANA VITÓRIA SCHACTAE BRANDÃO
 
-**Cliente:** Doutora Cuddy, diretora do Hospital Princeton Plasboro, personagem da minha série favorita.
-
+**Cliente:** Ana Vitória Schactae Brandão, aluna bolsista e organizadora do clube do livro.
 ## Apresentação do projeto
 
-A Doutora Cuddy, diretora do hospital Princeton Plasboro, recebe frequentemente propostas de procedimentos inusitados de seu funcionário mais competente - o médico diagnosticador Doutor House - que se acumulam em sua mesa. Além disso, muitas vezes a hierarquia de agendamento de salas de cirurgia e de procedimentos não é respeitada por ele. A lousa do House permite que os médicos consigam agendar as salas do hospital, enviar documentos para o comitê de medicina e ver as atualizações desse procedimento em um só lugar, para que a diretora não fique sobrecarregada
+O Painel do Leitor é um sistema desenvolvido para organizar as atividades do clube do livro do IFPR Campus Ponta Grossa. A plataforma centraliza a agenda de encontros, gerencia inscrições e vagas nos encontros, e permite que os leitores compartilhem o seu progresso de leitura, substituindo o controle manual por planilhas ou aplicativos de mensagens.
 
 ## Documento do projeto
 
